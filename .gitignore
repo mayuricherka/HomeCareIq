@@ -1,0 +1,44 @@
+# Installed packages are generated locally, rather than committed to Git.
+.venv/
+
+# Python generates bytecode when importing modules.
+__pycache__/
+*.py[cod]
+
+# Test and development tools generate caches and coverage reports.
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environment files can contain local settings and credentials.
+.env
+.env.*
+
+# Keep your personal saved tasks local; the sample CSV remains trackable.
+/data/saved_tasks.csv
+
+# Full learning prompts and preparation notes stay local.
+/prompt.md
+/private_notes/
+/video/
+/videos/
+/presentation/
+/presentations/
+
+# Recording and slide files are separate from the source-code submission.
+*.[pP][pP][tT]
+*.[pP][pP][tT][xX]
+*.[kK][eE][yY]
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM]4[vV]
+*.[wW][eE][bB][mM]
+
+# Local scratch data and macOS folder metadata.
+/disposable_validations.csv
+.DS_Store
+
+# Keep pyproject.toml, uv.lock, and .python-version in version control.

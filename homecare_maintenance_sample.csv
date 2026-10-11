@@ -1,0 +1,19 @@
+task_id,task_name,category,location,asset_name,last_service_date,frequency_days,next_due_date,estimated_cost_usd,actual_cost_usd,warranty_expiry_date,priority,vendor,notes
+HM001,HVAC filter replacement,HVAC,Basement,HVAC system,2026-06-05,90,2026-09-03,35,31.43,2028-06-30,High,Home Maintenance Pro,Sample data — replace with your home details
+HM002,HVAC seasonal service,HVAC,Outdoor,HVAC system,2026-07-07,180,2027-01-03,180,149.12,2028-06-30,Low,Local Service Co.,Sample data — replace with your home details
+HM003,Smoke detector test,Safety,Hallway,Smoke,2026-08-04,30,2026-09-03,0,0,2029-12-31,Medium,Home Maintenance Pro,Sample data — replace with your home details
+HM004,Water heater inspection,Plumbing,Basement,Water system,2026-02-11,365,2027-02-11,110,124.28,2027-04-15,High,DIY,Sample data — replace with your home details
+HM005,Dishwasher filter cleaning,Appliances,Kitchen,Dishwasher,2026-10-04,30,2026-11-03,0,0,2027-08-12,High,Home Maintenance Pro,Sample data — replace with your home details
+HM006,Refrigerator coil cleaning,Appliances,Kitchen,Refrigerator,2026-08-28,180,2027-02-24,0,0,2029-03-20,Medium,Local Service Co.,Sample data — replace with your home details
+HM007,Dryer vent cleaning,Laundry,Laundry Room,Dryer,2026-07-13,365,2027-07-13,145,135.84,2027-02-15,Low,DIY,Sample data — replace with your home details
+HM008,Washing machine cleaning,Laundry,Laundry Room,Washing,2026-09-09,30,2026-10-09,12,9.49,2027-02-15,High,Local Service Co.,Sample data — replace with your home details
+HM009,Gutter cleaning,Exterior,Roof,Gutter,2026-04-13,180,2026-10-10,175,170.19,2026-11-30,Low,DIY,Sample data — replace with your home details
+HM010,Sump pump test,Plumbing,Basement,Sump system,2026-09-19,90,2026-12-18,0,0,2028-08-01,High,Home Maintenance Pro,Sample data — replace with your home details
+HM011,Garage door lubrication,Exterior,Garage,Garage,2026-08-08,180,2027-02-04,18,14.4,2028-09-30,Medium,Local Service Co.,Sample data — replace with your home details
+HM012,Pest prevention service,Exterior,Exterior,Pest,2026-09-06,90,2026-12-05,95,105.78,2027-06-01,Low,Home Maintenance Pro,Sample data — replace with your home details
+HM013,Kitchen deep cleaning,Cleaning,Kitchen,Kitchen,2026-08-25,30,2026-09-24,40,49.4,2026-12-31,High,DIY,Sample data — replace with your home details
+HM014,Bathroom deep cleaning,Cleaning,Bathrooms,Bathroom,2026-09-28,30,2026-10-28,25,26.38,2026-12-31,High,DIY,Sample data — replace with your home details
+HM015,Air purifier filter,Air Quality,Bedroom,Air,2026-06-24,180,2026-12-21,55,59.63,2027-09-01,High,Home Maintenance Pro,Sample data — replace with your home details
+HM016,Water filter replacement,Plumbing,Kitchen,Water system,2026-06-06,180,2026-12-03,48,48.59,2027-10-01,Medium,Home Maintenance Pro,Sample data — replace with your home details
+HM017,Fire extinguisher inspection,Safety,Kitchen,Fire,2026-09-19,365,2027-09-19,0,0,2029-12-31,High,Home Maintenance Pro,Sample data — replace with your home details
+HM018,Lawn equipment service,Exterior,Garage,Lawn,2026-08-23,365,2027-08-23,85,108.98,2027-05-31,High,Local Service Co.,Sample data — replace with your home details

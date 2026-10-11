@@ -1,0 +1,26 @@
+# Project metadata and dependencies live here, similar to a Maven pom.xml.
+[project]
+name = "homecare-iq"
+version = "0.1.0"
+
+# Allow Python 3.13 patch releases while keeping one minor version for learning.
+requires-python = ">=3.13,<3.14"
+
+# Start empty. Your later `uv add` command will declare the required packages.
+dependencies = [
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "streamlit>=1.65.0",
+]
+
+# This dashboard runs directly from Python files; no build system is needed.
+
+# Similar to configuring Maven Surefire: where tests live and where imports start.
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
